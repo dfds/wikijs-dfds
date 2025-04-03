@@ -13599,14 +13599,6 @@ minizlib@^2.0.0, minizlib@^2.1.1:
     minipass "^3.0.0"
     yallist "^4.0.0"
 
-minizlib@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/minizlib/-/minizlib-2.1.0.tgz#fd52c645301ef09a63a2c209697c294c6ce02cf3"
-  integrity sha512-EzTZN/fjSvifSX0SlqUERCN39o6T40AMarPbv0MrarSFtIITCBh7bi+dU8nxGFHuqs9jdIAeoYoKuQAAASsPPA==
-  dependencies:
-    minipass "^3.0.0"
-    yallist "^4.0.0"
-
 mississippi@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/mississippi/-/mississippi-3.0.0.tgz#ea0a3291f97e0b5e8776b363d5f0a12d94c67022"
@@ -18400,10 +18392,10 @@ sprintf-js@~1.0.2:
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
   integrity sha1-BOaSb2YolTVPPdAVIDYzuFcpfiw=
 
-sqlite3@5.1.4:
-  version "5.1.4"
-  resolved "https://registry.yarnpkg.com/sqlite3/-/sqlite3-5.1.4.tgz#35f83d368963168b324ad2f0fffce09f3b8723a7"
-  integrity sha512-i0UlWAzPlzX3B5XP2cYuhWQJsTtlMD6obOa1PgeEQ4DHEXUuyJkgv50I3isqZAP5oFc2T8OFvakmDh2W6I+YpA==
+sqlite3@5.1.5:
+  version "5.1.5"
+  resolved "https://registry.yarnpkg.com/sqlite3/-/sqlite3-5.1.5.tgz#cf5a753c98914f3aa44b7bd057702fdca6abceb6"
+  integrity sha512-7sP16i4wI+yKnGOO2q2ijze7EjQ9US+Vw7DYYwxfFtqNZDGgBcEw0oeDaDvUTq66uJOzVd/z6MkIg+c9erSJKg==
   dependencies:
     "@mapbox/node-pre-gyp" "^1.0.0"
     node-addon-api "^4.2.0"
@@ -18973,19 +18965,7 @@ tar@^4:
     safe-buffer "^5.1.2"
     yallist "^3.0.3"
 
-tar@^6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/tar/-/tar-6.0.2.tgz#5df17813468a6264ff14f766886c622b84ae2f39"
-  integrity sha512-Glo3jkRtPcvpDlAs/0+hozav78yoXKFr+c4wgw62NNMO3oo4AaJdCo21Uu7lcwr55h39W2XD1LMERc64wtbItg==
-  dependencies:
-    chownr "^2.0.0"
-    fs-minipass "^2.0.0"
-    minipass "^3.0.0"
-    minizlib "^2.1.0"
-    mkdirp "^1.0.3"
-    yallist "^4.0.0"
-
-tar@^6.1.11, tar@^6.1.2:
+tar@^6.0.2, tar@^6.1.11, tar@^6.1.2:
   version "6.1.11"
   resolved "https://registry.yarnpkg.com/tar/-/tar-6.1.11.tgz#6760a38f003afa1b2ffd0ffe9e9abbd0eab3d621"
   integrity sha512-an/KZQzQUkZCkuoAA64hM92X0Urb6VpRhAFllDzz44U2mcD5scmT3zBc4VgVpkugF580+DQn8eAFSyoQt0tznA==
